@@ -1,6 +1,8 @@
 # showdown-alt-stealer
 A python pokemon showdown alt stealer checking the top 500 players of any ladder
 
+You need to have python installed, i am using pythong 3.12 but some older versions might work such as 3.9
+
 Pokémon Showdown Alt Finder
 Description
 This script allows you to scrape usernames from the Pokémon Showdown ladder for a specified tier and check whether those users are registered or not. It finds potentially unregistered accounts (alts) that could be "stealable" or used for various purposes. This is useful for people who want to identify unregistered users in specific tiers and potentially collect "alt" accounts.
