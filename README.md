@@ -49,6 +49,8 @@ It will fetch usernames from the ladder for the given tier and check if their pr
 
 The script will output the list of "stealable" usernames (unregistered accounts).
 
+IT IS NORMAL THAT IT TAKES SOME TIME AS IT CHECKS THE TOP 500 PLAYERS IN THE LADDER YOU CHOOSED DON'T UNRUN JUST WAIT
+
 Example Output
 
 Enter the tier (e.g., 'gen9ou'): gen9ou
