@@ -31,7 +31,7 @@ Installation
 
 Clone this repository:
 
-git clone https://github.com/yourusername/pokemon-showdown-alt-finder.git
+git clone https://github.com/MatLaTomate/pokemon-showdown-alt-finder.git
 
 Install the required dependencies:
 
