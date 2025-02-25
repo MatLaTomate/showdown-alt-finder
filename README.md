@@ -48,3 +48,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Disclaimer
 This script is for educational and research purposes only. Make sure to use it responsibly and within the rules of the Pokémon Showdown platform. Do not engage in any malicious activity with this script.
+
+Source : https://replit.com/@allweezy/showdown-alt-finder 
