@@ -39,6 +39,7 @@ It will fetch usernames from the ladder for the given tier and check if their pr
 The script will output the list of "stealable" usernames (unregistered accounts).
 
 Example Output
+
 Enter the tier (e.g., 'gen9ou'): gen9ou
 Found 20 usernames on the ladder.
 Failed to fetch data for moyagoku, skipping...
