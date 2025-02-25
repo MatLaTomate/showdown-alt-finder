@@ -52,3 +52,5 @@ def get_ladder_data(tier):
 if __name__ == "__main__":
     tier = input("Enter the tier (e.g., 'gen9ou'): ")
     get_ladder_data(tier)
+
+input("Press Enter to exit...")
