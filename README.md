@@ -51,6 +51,8 @@ The script will output the list of "stealable" usernames (unregistered accounts)
 
 IT IS NORMAL THAT IT TAKES SOME TIME AS IT CHECKS THE TOP 500 PLAYERS IN THE LADDER YOU CHOOSED DON'T UNRUN JUST WAIT
 
+If the python window closes it's because no alt was found
+
 Example Output
 
 Enter the tier (e.g., 'gen9ou'): gen9ou
