@@ -14,7 +14,7 @@ def get_user_data(user):
         usersoup = BeautifulSoup(website.content, "html.parser")
 
         # Check if the page contains a "Joined:" string to determine if the user is registered
-        if usersoup.body.findAll(string='Joined:'):
+        if usersoup.body.find_all(string='Joined:'):
             # If "Joined:" is found, it means the user is registered, so we skip adding them
             return None  # Registered user, return None
         else:
