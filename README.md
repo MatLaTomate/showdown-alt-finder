@@ -1,6 +1,8 @@
 # showdown-alt-stealer
 A python pokemon showdown alt stealer checking the top 500 players of any ladder
 
+The goal is to register a high elo unregistered account
+
 You need to have python installed, i am using pythong 3.12 but some older versions might work such as 3.9
 
 Pokémon Showdown Alt Finder
